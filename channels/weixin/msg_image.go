@@ -5,7 +5,7 @@ import (
 	"encoding/base64"
 	"encoding/hex"
 
-	"github.com/bougou/webhook-adapter/models"
+	"github.com/midy177/webhook-adapter/models"
 )
 
 func init() {

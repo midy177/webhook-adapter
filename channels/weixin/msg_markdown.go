@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/bougou/webhook-adapter/models"
-	"github.com/bougou/webhook-adapter/utils"
+	"github.com/midy177/webhook-adapter/models"
+	"github.com/midy177/webhook-adapter/utils"
 )
 
 func init() {

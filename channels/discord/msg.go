@@ -1,8 +1,8 @@
 package discord
 
 import (
-	"github.com/bougou/webhook-adapter/models"
 	"github.com/bwmarrin/discordgo"
+	"github.com/midy177/webhook-adapter/models"
 )
 
 const (

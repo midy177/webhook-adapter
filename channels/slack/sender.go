@@ -3,7 +3,7 @@ package slack
 import (
 	"fmt"
 
-	"github.com/bougou/webhook-adapter/models"
+	"github.com/midy177/webhook-adapter/models"
 )
 
 type Sender struct {

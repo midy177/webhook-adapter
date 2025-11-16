@@ -1,12 +1,12 @@
 package channels
 
 import (
-	"github.com/bougou/webhook-adapter/channels/dingtalk"
-	"github.com/bougou/webhook-adapter/channels/feishu"
-	"github.com/bougou/webhook-adapter/channels/slack"
-	"github.com/bougou/webhook-adapter/channels/weixin"
-	"github.com/bougou/webhook-adapter/channels/weixinapp"
-	"github.com/bougou/webhook-adapter/models"
+	"github.com/midy177/webhook-adapter/channels/dingtalk"
+	"github.com/midy177/webhook-adapter/channels/feishu"
+	"github.com/midy177/webhook-adapter/channels/slack"
+	"github.com/midy177/webhook-adapter/channels/weixin"
+	"github.com/midy177/webhook-adapter/channels/weixinapp"
+	"github.com/midy177/webhook-adapter/models"
 )
 
 func NewDingtalkSender(token string, msgType string) models.Sender {

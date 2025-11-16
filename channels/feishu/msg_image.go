@@ -1,6 +1,6 @@
 package feishu
 
-import "github.com/bougou/webhook-adapter/models"
+import "github.com/midy177/webhook-adapter/models"
 
 func init() {
 	Payload2MsgFnMap[MsgTypeImage] = NewMsgImageFromPayload

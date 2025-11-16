@@ -3,7 +3,7 @@ package weixinapp
 import (
 	"fmt"
 
-	"github.com/bougou/webhook-adapter/models"
+	"github.com/midy177/webhook-adapter/models"
 )
 
 // 企业微信 - 应用

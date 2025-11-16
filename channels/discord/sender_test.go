@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/bougou/webhook-adapter/models"
 	"github.com/bwmarrin/discordgo"
+	"github.com/midy177/webhook-adapter/models"
 )
 
 func Test_Webhook_Send(t *testing.T) {

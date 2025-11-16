@@ -7,8 +7,8 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/bougou/webhook-adapter/models"
 	"github.com/bwmarrin/discordgo"
+	"github.com/midy177/webhook-adapter/models"
 )
 
 // https://discord.com/api/webhooks/XXX/YYY
